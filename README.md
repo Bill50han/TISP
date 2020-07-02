@@ -1,6 +1,5 @@
 # TISP
-## A small and convenient blog program.
-## 一个小巧方便的博客程序。
+## A small and convenient blog program.<br>一个小巧方便的博客程序。
 
 特点：  
 - 无需动态程序渲染，纯静态
@@ -11,6 +10,7 @@
 
 当然，TISP 作为一个刚诞生的程序，也有许多缺点：
 - 目前不支持 RSS  
-- 在没有 php 环境支持时，每增加一篇文章就需要手动更（c)改（v) article.json 中的内容 \*1
-- 为 TISP 开发主题不会太容易 \*2
-- ~~(以及上面没提到的 Hexo 的全部特性/优点~~<img style="width: 1em;height: 1em;vertical-align: top;display: inline;" src="https://box.kancloud.cn/030ba506a9d693eca90a06a00507397e_66x66.gif" />
+- 在没有 php 环境支持时，每增加一篇文章就需要手动更（c)改（v) article.json 中的内容 
+- 为 TISP 开发主题不会太容易
+
+
