@@ -16,7 +16,7 @@
 ## 下载
 去 release 页面下载，下载完成解压后的 index.html 就是。
 
-Chrome 和 Firefox 下载 **最新测试** 版：<a href="http://tyatt.top/index.html" download="index">index.html</a>
+**最新测试** 版：使用下载工具下载这个页面：<http://tyatt.top/index.html>
 
 ## 注意
 请在下载完成后更改 “按照提示设置博客基本信息” 部分的变量的值来自定义网站
