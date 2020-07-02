@@ -13,9 +13,10 @@
 - 在没有 php 环境支持时，每增加一篇文章就需要手动更（c)改（v) article.json 中的内容 
 - 为 TISP 开发主题不会太容易
 
-Chrome 和 Firefox 下载最新版：<a href="http://tyatt.top/index.html" download="w3logo">
+## 下载
+去 release 页面下载，下载完成解压后的 index.html 就是。
 
-其他浏览器：下载 index.html 这个文件。
+Chrome 和 Firefox 下载 **最新测试** 版：<a href="http://tyatt.top/index.html" download="w3logo">index.html</a>
 
 ## 注意
-请在下载完成后更改 “按照提示设置博客基本信息” 中的变量的值来自定义网站
+请在下载完成后更改 “按照提示设置博客基本信息” 部分的变量的值来自定义网站
