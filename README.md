@@ -13,4 +13,4 @@
 - 目前不支持 RSS  
 - 在没有 php 环境支持时，每增加一篇文章就需要手动更（c)改（v) article.json 中的内容 \*1
 - 为 TISP 开发主题不会太容易 \*2
-- ~~(以及上面没提到的 Hexo 的全部特性/优点~~<img style="width: 1.5em;height: 1.5em;vertical-align: top;display: inline;" src="https://box.kancloud.cn/030ba506a9d693eca90a06a00507397e_66x66.gif" />
+- ~~(以及上面没提到的 Hexo 的全部特性/优点~~<img style="width: 1em;height: 1em;vertical-align: top;display: inline;" src="https://box.kancloud.cn/030ba506a9d693eca90a06a00507397e_66x66.gif" />
