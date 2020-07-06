@@ -26,7 +26,7 @@ JS 通过 URL 的查询部分判断应该显示什么内容，并用 AJAX 读取
 
 ## 部分配置文件
 article.json
-```json
+```javascript
 [
     {
         "title": "Hello World！",//显示出的文章标题
