@@ -39,3 +39,4 @@ article.json
     }
 ]
 ```
+> 用之前记得删掉压缩包里 article.json 内的所有注释
