@@ -19,4 +19,23 @@
 **最新测试** 版：使用下载工具下载这个页面：<http://tyatt.top/index.html>
 
 ## 注意
-请在下载完成后更改 “按照提示设置博客基本信息” 部分的变量的值来自定义网站
+请在下载完成后更改 “按照提示设置博客基本信息” 部分的变量的值来自定义网站，请用http或https协议访问index.html！
+
+## 原理
+JS 通过 URL 的查询部分判断应该显示什么内容，并用 AJAX 读取对应的 md 文件，渲染，显示到页面上。跳转部分使用 PJAX。页面初始化时使用 switch 判断？后面的内容并调用特定 JS 函数，PJAX 跳转时则是直接调用特定函数。
+
+## 部分配置文件
+article.json
+```json
+[
+    {
+        "title": "Hello World！",//显示出的文章标题
+        "link": "helloworld",//md文件夹内对应markdown文件的文件名，不包含 “.md” 
+        "time": "1111-01-01",//写作时间，格式如示例
+        "cate": "test",//分类，暂时没有实质作用，但会显示在首页的文章列表以及文章页的合适位置
+        "titpiclink": false,//题图链接，请使用img标签可以展示的格式，没有请填false
+        "titbclr": "#2196f3",//如果“titpiclink”为false，此项生效，设置的是题图区域的背景颜色
+        "titfclr": "#fff"//如果“titpiclink”为false，此项生效，设置的是题图区域的字体颜色
+    }
+]
+```
