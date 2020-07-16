@@ -18,6 +18,9 @@
 
 **最新测试** 版：使用下载工具下载这个页面：<http://tyatt.top/index.html>
 
+## DEMO
+<http://tyatt.top/index.html> 或 <http://tyatt.top/>
+
 ## 注意
 请在下载完成后更改 “按照提示设置博客基本信息” 部分的变量的值来自定义网站，请用http或https协议访问index.html！
 
